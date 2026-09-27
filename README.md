@@ -111,23 +111,15 @@ Based on the dashboard with all filters cleared:
 
 ## Dashboard Preview
 
-![Retail Sales & Profitability Dashboard](screenshots/dashboard.png)
+![Retail Sales & Profitability Dashboard](dashboard.png)
 
 ## Project Structure
 
 ```text
 Retail-Sales-PowerBI/
-│
-├── data/
-│   └── sample_-_superstore.xls
-│
-├── powerbi/
-│   └── Retail-Sales-Dashboard.pbix
-│
-├── screenshots/
-│   └── dashboard.png
-│
-└── README.md
+├── README.md
+├── Retail-Sales-Dashboard.pbix
+└── dashboard.png
 ```
 
 ## Skills Demonstrated
